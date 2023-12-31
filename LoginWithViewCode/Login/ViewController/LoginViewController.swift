@@ -50,7 +50,6 @@ extension LoginViewController: LoginScreenProtocol {
             let welcomeViewController = WelcomViewController()
 
             self.navigationController?.pushViewController(welcomeViewController, animated: true)
-            self.navigationItem.title = "Exit"
         } else {
             showAlert()
         }
