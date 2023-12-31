@@ -8,8 +8,11 @@ This project consists of two screens - a login screen and a sign-up screen, buil
 
 ## Screenshots
 
-![login](screenshots/login.png){width=100 height=100}
-![login](screenshots/register.png){width=100 height=100}
+<div style="display: flex; gap: 10px">
+  <img src="screenshots/login.png" alt="login screen" width="200">
+
+  <img src="screenshots/register.png" alt="register screen" width="200">
+</div>
 
 ## :rocket: Technologies
 
